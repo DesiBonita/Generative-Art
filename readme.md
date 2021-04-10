@@ -3,10 +3,10 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
+* **Naam:** `Desi van den Dijssel`
 * **Klas:** `vid-1/vid-2`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Kolibrie`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
