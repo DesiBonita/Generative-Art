@@ -1,14 +1,51 @@
-/* 👇 Start writing your p5.js code here */
+var tree = [];
+var leaves = [];
+
+var count = 0;
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
+  var a = createVector(width / 2, height);
+  var b = createVector(width / 2, height - 100);
+  root = new Branch(a, b);
+
+  tree[0] = root;
+}
+
+function mousePressed () {
+  for (var i = tree.length - 1; i >= 0; i--) {
+    if (!tree[i].finished) {
+      tree.push(tree[i].branchA());
+      tree.push(tree[i].branchB());
+    }
+    tree[i].finished = true;
+  }
+    count++;
+
+  if (count === 6) {
+    for (var i = 0; i < tree.length; i ++) {
+      if (!tree[i].finished) {
+        var leaf = tree[i].end.copy();
+        leaves.push(leaf);
+      }
+    }
+  }
+
 }
 
 function draw() {
-  background(220);
-  ellipse(width / 2, height / 2, 50, 50);
+  background(51);
+
+for (var i = 0; i < tree.length; i++) {
+  tree[i].show();
+  ///tree[i].jitter();
 }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
+  for (var i = 0; i < leaves.length; i++) {
+    fill(255, 0, 100, 100);
+    noStroke();
+    ellipse(leaves[i].x, leaves[i].y, 8, 8);
+    leaves[i].y += random(0, 2);
+}
+
 }
