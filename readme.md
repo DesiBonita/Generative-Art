@@ -29,7 +29,20 @@ Deze week was het de bedoeling dat we één eerste schets zouden maken met P5. H
 
 
 ### Week-2
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Deze week ben ik gaan kijken naar L systemen. Hier heb ik een tutorial over gevolgd met als uitkomst een boom die je door het systeem kan laten groeien. Ik kan steeds een ander boom creëren door het veranderen van de rules zoals je hier onder kan zien:
+var rules= [];
+rules[0] = {
+  a: "F",
+  b: "FF[++F[-F]+F][--F[+F]-F]" "FF[++F[-F]+F][--F[+F]-F]"
+
+Het L system werk als volgt:
+FF : will move two steps forward.
+FF+F : will move forward two steps, turn right and move forward in that direction.
+FF[+F]-F : will move forward two steps, save orientation, say A.
+Turns right and moves forward. Returns to A. Turns left and moves forward.
+
+Dit was leuk en leerzaam en heb zo verschillenden bomen kunnen creëren. Het lukt me nog niet om seizoenen toe te passen of de boom steeds te laten veranderen uit zichzelf. Eerlijk gezegd loop ik nu ook een beetje vast en zie ik door de bomen het bos niet meer.
+
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
@@ -37,6 +50,6 @@ Deze week was het de bedoeling dat we één eerste schets zouden maken met P5. H
 
 ## Bronnenlijst
 
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
+* `https://www.youtube.com/watch?v=fcdNSZ9IzJM`
+* `https://www.youtube.com/watch?v=E1B4UoSQMFw`
+* `http://paulbourke.net/fractals/lsys/`
