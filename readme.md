@@ -4,10 +4,10 @@
 
 ## Over
 * **Naam:** Desi van den Dijssel
-* **Klas:** `vid-1
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Kolibrie`
-* **Startniveau:** `blauw/rood/zwart` (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
+* **Klas:** vid-1
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** Kolibrie
+* **Startniveau:** blauw/rood/zwart (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
 
 ## Concept
 Het leek mij interessant om de vier seizoenen visueel te maken doormiddel van een boom te creëren die groeit door de input van een gebruiker. De takken en bladeren wiegen in de wint, doormiddel van bijvoorbeeld een slijder zou je als gebruiker door de 4 seizoenen heen kunnen gaan. Elk seizoen laat een andere boom zien.
