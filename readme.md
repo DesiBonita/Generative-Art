@@ -66,3 +66,4 @@ Danny heb ik om hulp gevraagd, hij heeft mijn bestand geordend en een begin gema
 * https://github.com/someuser-321/TreeGenerator/commit/832293ef827974d9a65afdf6f76ad56c348486a7
 * https://github.com/nenadV91/Fractal-tree
 * https://github.com/erdavids/Portfolio/tree/master/generative-plants
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_access_lexical_declaration_before_init
