@@ -4,7 +4,7 @@
 
 ## Over
 * **Naam:** Desi van den Dijssel
-* **Klas:** `vid-1/vid-2`
+* **Klas:** `vid-1
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Kolibrie`
 * **Startniveau:** `blauw/rood/zwart` (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
