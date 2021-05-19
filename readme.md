@@ -45,7 +45,10 @@ Dit was leuk en leerzaam en heb zo verschillenden bomen kunnen creëren. Het luk
 
 
 ### Week-3
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Ik heb verschilden bomen los van elkaar gecreëerd. Deze week naar school geweest en van elkaar feedback ontvangen. Mensen vonden mijn bomen mooi en ik kreeg tips om bijvoorbeeld de verschillende bomen samen te voegen tot één concept.
+
+Thuis weer aan de slag gegaan, dit keer met de L systeem boom. Het gaat niet erg soepel en begin steeds meer een zooitje van de code te maken. Ik wil graag dat de boom groeit door te klikken op het scherm. Dat is gelukt, nu wil ik dat na vier klikken de boom veranderd in een andere boom die groeit en zo verder. Dat onderdeel lukt me nog niet. Danny heb ik om hulp gevraagd, hij heeft toen mijn bestand geordend en een begin gemaakt aan dat de boom na vier klikken opnieuw een andere boom genereerd. Ik ben nu zelf bezig dit af te maken, het lukt me nog niet echt en raak gefrustreerd. Daarom heb hulp gevraag aan Pepijn, hoop dat die reageert. Zelf nu maar opzoek gegaan naar hoe de code steeds weer te laten resetten. Hier heb ik een tutorial over gevonden dus maar hopen dat dit werkt.
+
 
 
 ## Bronnenlijst
@@ -53,3 +56,9 @@ Dit was leuk en leerzaam en heb zo verschillenden bomen kunnen creëren. Het luk
 * `https://www.youtube.com/watch?v=fcdNSZ9IzJM`
 * `https://www.youtube.com/watch?v=E1B4UoSQMFw`
 * `http://paulbourke.net/fractals/lsys/`
+* https://github.com/TanviKumar/treegen
+* https://github.com/TanviKumar/treegen/blob/master/script.js
+* https://codepen.io/franksLaboratory/pen/abzyVme
+* https://github.com/someuser-321/TreeGenerator/commit/832293ef827974d9a65afdf6f76ad56c348486a7
+* https://github.com/nenadV91/Fractal-tree
+* https://github.com/erdavids/Portfolio/tree/master/generative-plants
