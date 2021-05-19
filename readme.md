@@ -53,9 +53,9 @@ Thuis weer aan de slag gegaan, dit keer met de L systeem boom. Het gaat niet erg
 
 ## Bronnenlijst
 
-* `https://www.youtube.com/watch?v=fcdNSZ9IzJM`
-* `https://www.youtube.com/watch?v=E1B4UoSQMFw`
-* `http://paulbourke.net/fractals/lsys/`
+* https://www.youtube.com/watch?v=fcdNSZ9IzJM
+* https://www.youtube.com/watch?v=E1B4UoSQMFw
+* http://paulbourke.net/fractals/lsys/
 * https://github.com/TanviKumar/treegen
 * https://github.com/TanviKumar/treegen/blob/master/script.js
 * https://codepen.io/franksLaboratory/pen/abzyVme
