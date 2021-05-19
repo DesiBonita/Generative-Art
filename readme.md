@@ -52,7 +52,7 @@ Ik heb dus verschilden bomen los van elkaar gecreëerd. Deze week naar school ge
 Thuis weer aan de slag gegaan, dit keer met de L systeem boom. Het gaat niet erg soepel en begin steeds meer een zooitje van de code te maken. Ik wil graag dat de boom groeit door te klikken op het scherm. Dat is gelukt, nu wil ik dat na vier klikken de boom veranderd in een andere boom die groeit en zo verder. Dat onderdeel lukt me nog niet. 
 
 ### Week-5 (Beoordelingsweek)
-Danny heb ik om hulp gevraagd, hij heeft mijn bestand geordend en een begin gemaakt aan dat de boom na vier klikken opnieuw een andere boom genereerd. Ik ben nu zelf bezig dit af te maken, het lukt me nog niet echt en raak gefrustreerd. Daarom heb hulp gevraag aan Pepijn, hoop dat die reageert. Zelf nu maar opzoek gegaan naar hoe de code steeds weer te laten resetten. Hier heb ik een tutorial over gevonden dus maar hopen dat dit werkt.
+Danny heb ik om hulp gevraagd, hij heeft mijn bestand geordend en een begin gemaakt aan dat de boom na vier klikken opnieuw een andere boom genereerd. Ik ben nu zelf bezig dit af te maken, het lukt me nog niet echt en raak gefrustreerd. Daarom heb ik hulp gevraag aan Pepijn. We hebben bijna 1 uur gebeld en van alles geprobeerd alleen zijn er helaas niet uitgekomen. Zelf toen maar opzoek gegaan naar hoe de code steeds weer te laten resetten. Hier heb ik een tutorial over gevonden maar het wil niet werken. 
 
 
 ## Bronnenlijst
