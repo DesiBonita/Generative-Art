@@ -7,7 +7,7 @@
 * **Klas:** `vid-1/vid-2`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Kolibrie`
-* **Startniveau:** `blauw/rood/zwart` (Uhm.. welke kleur betekend ik startniveau 0? Die kleur is het!)
+* **Startniveau:** `blauw/rood/zwart` (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
 
 ## Concept
 Het leek mij interessant om de vier seizoenen visueel te maken doormiddel van een boom te creëren die groeit door de input van een gebruiker. De takken en bladeren wiegen in de wint, doormiddel van bijvoorbeeld een slijder zou je als gebruiker door de 4 seizoenen heen kunnen gaan. Elk seizoen laat een andere boom zien.
@@ -18,7 +18,7 @@ Het leek mij interessant om de vier seizoenen visueel te maken doormiddel van ee
 
 ## Onderzoek & inspiratie
 Voor mijn onderzoek ben ik de lijst Resources & inspiration van Danny afgegaan. Hier heb ik van alles wat mij aansprak een moodboard gemaakt. Vervolgens heb ik een mindmap gemaakt over mijzelf, wie ben ik en waar houd ik van. Uit deze mindmap kwam dat ik van transparantie, niet al te veel en felle kleuren en de natuur houd. Deze informatie heb ik tijdens de les gedeeld. Ik kreeg goede feedback waaruit een idee is ontstaan, namelijk bladeren en/of bomen creëren die reageren op de input van de gebruiker.
-
+Cancel changes
 ## Voortang
 
 `Schrijf hier een klein logboekje met je voortgang per week.`
