@@ -20,9 +20,6 @@ Het leek mij interessant om de vier seizoenen visueel te maken doormiddel van ee
 Voor mijn onderzoek ben ik de lijst Resources & inspiration van Danny afgegaan. Hier heb ik van alles wat mij aansprak een moodboard gemaakt. Vervolgens heb ik een mindmap gemaakt over mijzelf, wie ben ik en waar houd ik van. Uit deze mindmap kwam dat ik van transparantie, niet al te veel en felle kleuren en de natuur houd. Deze informatie heb ik tijdens de les gedeeld. Ik kreeg goede feedback waaruit een idee is ontstaan, namelijk bladeren en/of bomen creëren die reageren op de input van de gebruiker.
 Cancel changes
 ## Voortang
-
-`Schrijf hier een klein logboekje met je voortgang per week.`
-
 ### Week-1
 Ik ben onderzoek gaan doen naar Generative Art, heb grote namen in deze scene gegoogeld en hun werk bekeken. Toen ben ik voor mijzelf gaan kijken wie ben ik en waar hou ik van. Natuur was één van de dingen die hieruit kwam en waar ik ook graag iets mee wil gaan doen. Na de feedback in de les ben ik op een idee gekomen. Ik wil graag iets doen met bomen, bladeren en seizoenen.
 
