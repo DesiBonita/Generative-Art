@@ -9,10 +9,6 @@
 * **Favoriete dier:** Kolibrie
 * **Startniveau:** blauw/rood/zwart (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
 
-Link naar Brackets browser afspeel ding. Weet niet of dit ook bij andere werkt.
-(Deze link werkte bij mij wel normaal. Hier heeft het canvas en de boom de juiste grote, bekijk anders het filpje voor het juiste eindproduct)
-http://127.0.0.1:56260/index.html
-
 
 ## Concept
 Het leek mij interessant om de vier seizoenen visueel te maken doormiddel van een boom te creëren die groeit door de input van een gebruiker. De takken en bladeren wiegen in de wint, doormiddel van bijvoorbeeld een slijder zou je als gebruiker door de 4 seizoenen heen kunnen gaan. Elk seizoen laat een andere boom zien.
