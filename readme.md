@@ -56,6 +56,7 @@ Danny heb ik om hulp gevraagd, hij heeft mijn bestand geordend en een begin gema
 
 
 ## Bronnenlijst
+* https://editor.p5js.org/aferriss/sketches/B1oYHcN9W
 * https://www.youtube.com/watch?v=lm8Y8TD4CTM
 * https://www.youtube.com/watch?v=fcdNSZ9IzJM
 * https://www.youtube.com/watch?v=E1B4UoSQMFw
