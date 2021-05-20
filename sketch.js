@@ -1,18 +1,17 @@
-
 var bgColor;
 var slider; // the slider element
-var deg = 0 ;//variable for rotation  
+var deg = 0 ;//variable for rotation
 
 function setup() {
-  createCanvas(windowWidth,windowWidth);
+  createCanvas(600,600);
   angleMode(DEGREES);
   colorMode(HSB);
   bgColor = color( random(255), random(255), random(255) );
    // slider has a range between 0 and 255 with a starting value of 127
    slider = createSlider(3,50,10);//create slider
   slider.size(200);//length of slider
-  slider.position(480, 800);//position of slider
-  
+  slider.position(320, 570);//position of slider
+
 }
 
 function draw() {
@@ -27,16 +26,16 @@ function draw() {
   translate(200,200);//set origin of the line
     rotate(radians(deg));//rotate line function
   strokeWeight(slider.value());//set slider to control the lines stroke weight
-  ellipse(-590, -750, 200, 200);//draw line and position
+  ellipse(-450, -600, 150, 150);//draw line and position
   let c = color(400, 204, 0);
 fill(c);
-  
-    
-  fill(slider.value(), 255, 255, 127);
-  
 
-} 
-  
+
+  fill(slider.value(), 255, 255, 127);
+
+
+}
+
 function tree(len,theta)
 {
   strokeWeight(len/25+1);
@@ -52,16 +51,16 @@ function tree(len,theta)
    push();
    rotate(-theta);
    tree(len,theta);
-   pop();         
+   pop();
   }
-  
+
     //count++;
 }
 
 
 function mousePressed(){
 	bgColor = color( random(255), random(255), random(255) );
-   // if (count === 3) 
+   // if (count === 3)
     //stroke  = (1, 90, 60);
     //count = 0;
   }
