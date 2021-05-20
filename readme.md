@@ -54,6 +54,9 @@ Thuis weer aan de slag gegaan, dit keer met de L systeem boom. Het gaat niet erg
 ### Week-5 (Beoordelingsweek)
 Danny heb ik om hulp gevraagd, hij heeft mijn bestand geordend en een begin gemaakt aan dat de boom na vier klikken opnieuw een andere boom genereerd. Ik ben nu zelf bezig dit af te maken, het lukt me nog niet echt en raak gefrustreerd. Daarom heb ik hulp gevraag aan Pepijn. We hebben bijna 1 uur gebeld en van alles geprobeerd alleen zijn er helaas niet uitgekomen. Zelf toen maar opzoek gegaan naar hoe de code steeds weer te laten resetten. Hier heb ik een tutorial over gevonden maar het wil niet werken. 
 
+Mijn L systeem boom had ik toen maar even geparkeerd, ben aan de slag gegaan met een andere boom waar ik het begin al van had gemaakt. Deze boom heb ik interactiever gemaakt door een slijder toe te voegen waarmee je de kleuren van de boom zelf kan veranderen. Tevens verander je de grote van de toegevoegde zon met deze slijder. Ook heb ik het project generatiever gemaakt doormiddel van een kleurverandering in de achtergrond als je met je muis op het scherm klikt.
+
+
 
 ## Bronnenlijst
 * https://p5js.org/examples/hello-p5-interactivity-2.html
