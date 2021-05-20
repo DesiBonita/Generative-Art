@@ -9,7 +9,7 @@
 * **Favoriete dier:** Kolibrie
 * **Startniveau:** blauw/rood/zwart (Uhm.. welke kleur betekend startniveau 0? Die kleur is het!)
 
-##Link naar Brackets browser afspeel ding. Weet niet of dit ook bij andere werkt.
+**Link naar Brackets browser afspeel ding. Weet niet of dit ook bij andere werkt.
 * *(Deze link werkte bij mij wel normaal. Hier heeft het canvas en de boom de juiste grote, bekijk anders het filpje voor het juiste eindproduct)
 * http://127.0.0.1:56260/index.html
 
