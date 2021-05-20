@@ -1,51 +1,80 @@
-var tree = [];
-var leaves = [];
 
-var count = 0;
+var bgColor;
+var slider; // the slider element
+var deg = 0 ;//variable for rotation  
 
 function setup() {
-  createCanvas(400, 400);
-  var a = createVector(width / 2, height);
-  var b = createVector(width / 2, height - 100);
-  root = new Branch(a, b);
-
-  tree[0] = root;
-}
-
-function mousePressed () {
-  for (var i = tree.length - 1; i >= 0; i--) {
-    if (!tree[i].finished) {
-      tree.push(tree[i].branchA());
-      tree.push(tree[i].branchB());
-    }
-    tree[i].finished = true;
-  }
-    count++;
-
-  if (count === 6) {
-    for (var i = 0; i < tree.length; i ++) {
-      if (!tree[i].finished) {
-        var leaf = tree[i].end.copy();
-        leaves.push(leaf);
-      }
-    }
-  }
-
+  createCanvas(windowWidth,windowWidth);
+  angleMode(DEGREES);
+  colorMode(HSB);
+  bgColor = color( random(255), random(255), random(255) );
+   // slider has a range between 0 and 255 with a starting value of 127
+   slider = createSlider(3,50,10);//create slider
+  slider.size(200);//length of slider
+  slider.position(480, 800);//position of slider
+  
 }
 
 function draw() {
-  background(51);
+  a=map(mouseX,0,width,0,90);
+  background(bgColor);
+  stroke(slider.value());
+  translate(width/2,height);
+  stroke(slider.value(), 255, 255);
+//strokeWeight(2);
+  tree(width*0.3,a);
+// noLoop();
+  translate(200,200);//set origin of the line
+    rotate(radians(deg));//rotate line function
+  strokeWeight(slider.value());//set slider to control the lines stroke weight
+  ellipse(-590, -750, 200, 200);//draw line and position
+  let c = color(400, 204, 0);
+fill(c);
+  
+    
+  fill(slider.value(), 255, 255, 127);
+  
 
-for (var i = 0; i < tree.length; i++) {
-  tree[i].show();
-  ///tree[i].jitter();
+} 
+  
+function tree(len,theta)
+{
+  strokeWeight(len/25+1);
+
+  line(0,0,0,-len);
+  translate (0,-len);
+  len*=0.69;
+  if(len>2){
+   push();
+   rotate(theta);
+   tree(len,theta);
+   pop()
+   push();
+   rotate(-theta);
+   tree(len,theta);
+   pop();         
+  }
+  
+    //count++;
 }
 
-  for (var i = 0; i < leaves.length; i++) {
-    fill(255, 0, 100, 100);
-    noStroke();
-    ellipse(leaves[i].x, leaves[i].y, 8, 8);
-    leaves[i].y += random(0, 2);
+
+function mousePressed(){
+	bgColor = color( random(255), random(255), random(255) );
+   // if (count === 3) 
+    //stroke  = (1, 90, 60);
+    //count = 0;
+  }
+
+
+
+
+function keyPressed() {
+  if (keyCode === 32) {//if spacebar is pressed
+    deg = random(0, 100, 1000);//roteer vierkant tussen 0 and 100
+  }
 }
 
-}
+
+
+   
